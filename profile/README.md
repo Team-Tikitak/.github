@@ -42,18 +42,10 @@
 
 <br/>
 
-## 🔧 기술 아키텍처
+## 🔧 시스템 아키텍처
 <img width="1538" height="699" alt="Image" src="https://github.com/user-attachments/assets/72f6ecb0-1b64-42bd-b7b5-5492830d57ff" />
-
 <br/>
 
-## 💻 레파지토리 바로가기
-<p align="center">
-<a href="https://github.com/Team-Tikitak/Tikitak-FE"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://github.com/Team-Tikitak/Tikitak-BE"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://github.com/Team-Tikitak/Tikitak-landing"><img src="https://img.shields.io/badge/Landing%20Page-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://github.com/Team-Tikitak/Tikitak-DesignSystem"><img src="https://img.shields.io/badge/Design%20System-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
 
 ## 👥 팀원
 <table align = "center">
